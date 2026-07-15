@@ -8,9 +8,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=595&height=44&lines=I%20make%20things%2C%20I%20break%20things%2C%20and...;~%20I%20fix%20things%20~" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+<div>
+
+### 🧙🏻‍♂️🩻 About Me 🩻🧙🏻‍♂️
 
 Hi! I'm Yakkobi, a tech enthusiast and an aspiring developer. Throughout my journey in the endless world of tech, I've gained lots of experience through my day job, various hobbies, and my acquired hyper-fixation of the month. My love for tech started when I was a little boy, and I was curious about playing my favorite games for free! From there, I delved into the realm of emulation, rom hacking, and building emulation devices. I accomplished some seriously awesome things, and through that experience, I was able to put a smile on others' faces as well. After that, the rest was history. I decided to get a job in a general IT/helpdesk role, and now I'm studying things like Linux distros (I use Arch btw), cybersecurity, programming languages, full-stack development, and many other niches during free time!
+
+
+<br>
 
 🌱 &nbsp;I'm currently learning **cybersecurity and web development**  
 👯 &nbsp;I'm looking to collaborate on **open source cybersecurity projects**  
@@ -18,7 +23,14 @@ Hi! I'm Yakkobi, a tech enthusiast and an aspiring developer. Throughout my jour
 😄 &nbsp;Pronouns: **he/him**  
 ⚡ &nbsp;Fun fact: **I've been in some of the most secure rooms in the Pentagon!**
 
+
+---
+
+
+
 ### 🛠️ Tech Stack
+
+<br>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
@@ -35,29 +47,43 @@ Hi! I'm Yakkobi, a tech enthusiast and an aspiring developer. Throughout my jour
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt ="PowerShell" />
   <img src="https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="Ubiquiti" />
-  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
   <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt=Rasberry Pi" />
-</p>
+  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
 
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/linkedin.com/in/jacob-acevedo-a50793267" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:jacobwacevedo@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+</div>
+
+
+<br>
+
+---
+
+
 
 ### 📊 GitHub Stats
 
+<br>
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Yakkobi&show_icons=true&theme=shades-of-purple&title_color=e3b341&icon_color=e3b341&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Yakkobi&layout=compact&theme=tokyonight&title_color=cb00ff&icon_color=e3b341&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Yakkobi&show_icons=true&theme=shades-of-purple&title_color=e3b341&icon_color=e3b341&text_color=B559BE&ring_color=e3b341&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Yakkobi&layout=compact&theme=tokyonight&title_color=e3b341&icon_color=e3b341&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yakkobi&bg_color=00000000&color=e3b341&line=cb00ff&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yakkobi&bg_color=00000000&color=e3b341&title_color=e3b341&line=cb00ff&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/Yakkobi">Yakkobi</a></i></p>
+
+<div align="center">
+
+### 🔗 Connect With Me
+
+
+
+<a href="https://linkedin.com/in/linkedin.com/in/jacob-acevedo-a50793267" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:jacobwacevedo@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
+
