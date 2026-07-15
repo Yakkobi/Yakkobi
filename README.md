@@ -23,9 +23,9 @@ Hi! I'm Yakkobi, a tech enthusiast and an aspiring developer. Throughout my jour
 😄 &nbsp;Pronouns: **he/him**  
 ⚡ &nbsp;Fun fact: **I've been in some of the most secure rooms in the Pentagon!**
 
+<br>
 
 ---
-
 
 
 ### 🛠️ Tech Stack
@@ -65,7 +65,7 @@ Hi! I'm Yakkobi, a tech enthusiast and an aspiring developer. Throughout my jour
 <br>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Yakkobi&show_icons=true&theme=shades-of-purple&title_color=e3b341&icon_color=e3b341&text_color=B559BE&ring_color=e3b341&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Yakkobi&show_icons=true&theme=shades-of-purple&title_color=e3b341&icon_color=e3b341&text_color=C25CCC&ring_color=e3b341&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Yakkobi&layout=compact&theme=tokyonight&title_color=e3b341&icon_color=e3b341&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
@@ -73,6 +73,8 @@ Hi! I'm Yakkobi, a tech enthusiast and an aspiring developer. Throughout my jour
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yakkobi&bg_color=00000000&color=e3b341&title_color=e3b341&line=cb00ff&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
+
+<br>
 
 ---
 
@@ -86,4 +88,3 @@ Hi! I'm Yakkobi, a tech enthusiast and an aspiring developer. Throughout my jour
 <a href="mailto:jacobwacevedo@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
-
