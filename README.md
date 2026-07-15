@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Yakkobi">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=cb00ff&fontSize=54&height=90&width=890&text=Enter...%20Yakkobi's%20Realm!" alt="Enter... Yakkobi&#39;s Realm!" />
+    <img src="https://capsule-render.vercel.app/api?font=Alagard&type=transparent&fontColor=cb00ff&fontSize=54&height=90&width=890&text=Enter...%20Yakkobi's%20Realm!" alt="Enter... Yakkobi&#39;s Realm!" />
   </a>
 </p>
 
@@ -33,6 +33,10 @@ Hi! I'm Yakkobi, a tech enthusiast and an aspiring developer. Throughout my jour
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt ="PowerShell" />
+  <img src="https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="Ubiquiti" />
+  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
+  <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt=Rasberry Pi" />
 </p>
 
 ### 🔗 Connect With Me
@@ -45,14 +49,14 @@ Hi! I'm Yakkobi, a tech enthusiast and an aspiring developer. Throughout my jour
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Yakkobi&show_icons=true&theme=shades-of-purple&title_color=cb00ff&icon_color=cb00ff&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Yakkobi&layout=compact&theme=tokyonight&title_color=cb00ff&icon_color=cb00ff&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Yakkobi&show_icons=true&theme=shades-of-purple&title_color=e3b341&icon_color=e3b341&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Yakkobi&layout=compact&theme=tokyonight&title_color=cb00ff&icon_color=e3b341&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yakkobi&bg_color=00000000&color=cb00ff&line=cb00ff&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yakkobi&bg_color=00000000&color=e3b341&line=cb00ff&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
