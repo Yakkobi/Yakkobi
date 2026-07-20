@@ -17,9 +17,9 @@ Hi! I'm Yakkobi, a tech enthusiast and an aspiring developer. Throughout my jour
 
 <br>
 
-🌱 &nbsp;I'm currently learning **cybersecurity and web development**  
-👯 &nbsp;I'm looking to collaborate on **open source cybersecurity projects**  
-💬 &nbsp;Ask me about **CompTIA certifications, general IT/helpdesk questions, emulation, or my experience in the military!**  
+🌱 &nbsp;I'm currently learning **full-stack web development**  
+👯 &nbsp;I'm looking to collaborate on **web application projects**  
+💬 &nbsp;Ask me about **CompTIA certifications/study tips, general IT/helpdesk questions, emulation, or my experience in the military!**  
 😄 &nbsp;Pronouns: **he/him**  
 ⚡ &nbsp;Fun fact: **I've been in some of the most secure rooms in the Pentagon!**
 
