@@ -12,8 +12,7 @@
 
 ### 🧙🏻‍♂️🩻 About Me 🩻🧙🏻‍♂️
 
-Hi! I'm Yakkobi, a tech enthusiast and an aspiring developer. Throughout my journey in the endless world of tech, I've gained lots of experience through my day job, various hobbies, and my monthly hyper-fixations! My love for tech started when I was a little boy who enjoyed playing video games as a hobby, but I was too poor to afford them. Because of this, I dived into the realm of emulation, rom hacking, and building emulation devices to solve my problem. What was once just a hobby, became a learning experience and set the trajectory for my future in tech. I accomplished some seriously awesome things while I was young, and through that experience, I was able to share what I've learned to put a smile on others' faces as well. The realization hit; I loved helping people in tech, and turning frustrations into smiles. I decided to get a job in a general IT/helpdesk role after completing military training, and now I'm studying things like Linux distros (I use Arch btw), cybersecurity, programming languages, full-stack development, and many other niches during my free time!
-
+Hi! I'm Yakkobi, a tech enthusiast and an aspiring developer. Throughout my journey in the endless world of tech, I've gained lots of experience through my day job, various hobbies, and my monthly hyper-fixations! My love for tech started when I was a little boy who enjoyed playing video games, but I was too poor to afford them. I wasn't going to let my financial situation stop me, so I delved into the realm of emulation, rom hacking, and building emulation devices to solve my problem. Fast forward a couple of decades later, and after completing military training, I landed a job in a general IT/helpdesk role. Now, I'm studying things like Linux distros (I use Arch btw), cybersecurity, programming languages, full-stack development, and many other niches during my free time!
 
 <br>
 
