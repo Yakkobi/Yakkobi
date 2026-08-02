@@ -67,8 +67,8 @@ Hi! I'm Yakkobi, a tech enthusiast and an aspiring developer. Throughout my jour
 <br>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Yakkobi&show_icons=true&theme=shades-of-purple&title_color=e3b341&icon_color=e3b341&text_color=C25CCC&ring_color=e3b341&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Yakkobi&layout=compact&theme=tokyonight&title_color=e3b341&icon_color=e3b341&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Yakkobi&show_icons=true&theme=shades-of-purple&title_color=e3b341&icon_color=e3b341&text_color=C25CCC&ring_color=e3b341&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yakkobi&layout=compact&theme=tokyonight&title_color=e3b341&icon_color=e3b341&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 
