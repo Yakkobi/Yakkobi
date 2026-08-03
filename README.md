@@ -67,13 +67,13 @@ Hi! I'm Yakkobi, a tech enthusiast and an aspiring developer. Throughout my jour
 <br>
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Yakkobi&show_icons=true&theme=shades-of-purple&title_color=e3b341&hide_title=true&icon_color=e3b341&text_color=C25CCC&ring_color=e3b341&rank_icon=percentile&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yakkobi&layout=compact&theme=tokyonight&title_color=e3b341&icon_color=e3b341&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="195" src="https://github-stats-extended.vercel.app/api?username=Yakkobi&show_icons=true&theme=shades-of-purple&title_color=e3b341&custom_title=Profile&nbsp;Metrics&icon_color=e3b341&text_color=C25CCC&ring_color=e3b341&rank_icon=percentile&hide_border=true&bg_color=00000000&count_private=true&show=reviews%2Cdiscussions_answered%2C&hide=issues" alt="stats" />
+  <img height="210" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yakkobi&layout=donut&theme=great-gatsby&title_color=e3b341&icon_color=e3b341&text_color=C25CCC&hide_border=true&bg_color=00000000&langs_count=6" alt="top langs" />
 </p>
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yakkobi&bg_color=00000000&color=e3b341&title_color=e3b341&line=cb00ff&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yakkobi&bg_color=00000000&color=e3b341&title_color=e3b341&custom_title=Contribution&nbsp;Graph&line=cb00ff&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 <br>
