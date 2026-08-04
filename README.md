@@ -1,6 +1,7 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/sparkles.svg" width="100%" />
   <a href="https://github.com/Yakkobi">
-    <img src="https://capsule-render.vercel.app/api?font=Alagard&type=transparent&fontColor=cb00ff&fontSize=54&height=90&width=890&text=Enter...%20Yakkobi's%20Realm₊⊹.˖₊･" alt="Enter... Yakkobi's Realm!&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?font=Alagard&type=transparent&fontColor=cb00ff&fontSize=54&height=90&width=890&text=Enter...%20Yakkobi's%20Realm" alt="Enter... Yakkobi's Realm!&animation=fadeIn" />
   </a>
 </p>
 
