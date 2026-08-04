@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Yakkobi">
-    <img src="https://capsule-render.vercel.app/api?font=Alagard&type=transparent&fontColor=cb00ff&fontSize=54&height=90&width=890&text=Enter...%20Yakkobi's%20Realm!" alt="Enter... Yakkobi's Realm!&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?font=Alagard&type=transparent&fontColor=cb00ff&fontSize=54&height=90&width=890&text=Enter...%20Yakkobi's%20Realm₊⊹.˖₊" alt="Enter... Yakkobi's Realm!&animation=fadeIn" />
   </a>
 </p>
 
@@ -12,7 +12,8 @@
 
 ### 🧙🏻‍♂️🩻 About Me 🩻🧙🏻‍♂️
 
-Hi! I'm Yakkobi, a tech enthusiast and an aspiring developer. Throughout my journey in the endless world of tech, I've gained lots of experience through my day job, various hobbies, and my monthly hyper-fixations! My love for tech started when I was a little boy who enjoyed playing video games, but I was too poor to afford them. I wasn't going to let my financial situation stop me, so I delved into the realm of emulation, rom hacking, and building emulation devices to solve my problem. Fast forward a couple of decades later, and after completing military training, I landed a job in a general IT/helpdesk role. Now, I'm studying things like Linux distros (I use Arch btw), cybersecurity, programming languages, full-stack development, and many other niches during my free time!
+Hi, I'm Yakkobi~ a lifelong tinkerer who got into tech through emulation and rom hacking, and never really stopped exploring since. Currently, my energy is channeled into full-stack development projects, cybersecurity research, network administration, and working knowledge of Linux (I use Arch btw).  
+~IT by trade, with military experience along the way.
 
 <br>
 
