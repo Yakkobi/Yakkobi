@@ -11,7 +11,7 @@
 
 <div>
 
-### 🧙🏻‍♂️🩻 About Me 🩻🧙🏻‍♂️
+### <img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/spinning-portal.svg" width="25" align="absmiddle" />About Me<img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/spinning-portal.svg" width="25" align="absmiddle" />
 
 Hi, I'm Yakkobi~ a lifelong tinkerer who got into tech through emulation and rom hacking, and never really stopped exploring since. Currently, my energy is channeled into full-stack development projects, cybersecurity research, network administration, and working knowledge of Linux (I use Arch btw).  
 ~IT by trade, with military experience along the way.
