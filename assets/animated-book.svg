@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" shape-rendering="crispEdges">
+  <style>
+    .flap {
+      animation: flapMove 1.3s ease-in-out infinite;
+    }
+    @keyframes flapMove {
+      0%    { x: 13px; width: 9px; opacity: 0; }
+      19%   { x: 13px; width: 9px; opacity: 0; }
+      25%   { x: 13px; width: 9px; opacity: 1; }
+      38%   { x: 11px; width: 2px; opacity: 1; }
+      46%   { x: 11px; width: 2px; opacity: 1; }
+      62%   { x: 2px;  width: 9px; opacity: 1; }
+      85%   { x: 2px;  width: 9px; opacity: 1; }
+      93%   { x: 2px;  width: 9px; opacity: 0; }
+      100%  { x: 2px;  width: 9px; opacity: 0; }
+    }
+    .right-text {
+      animation: rightFade 1.3s ease-in-out infinite;
+    }
+    @keyframes rightFade {
+      0%   { opacity: 1; }
+      20%  { opacity: 1; }
+      38%  { opacity: 0; }
+      46%  { opacity: 0; }
+      64%  { opacity: 1; }
+      100% { opacity: 1; }
+    }
+    .left-text {
+      animation: leftFade 1.3s ease-in-out infinite;
+    }
+    @keyframes leftFade {
+      0%   { opacity: 1; }
+      46%  { opacity: 1; }
+      58%  { opacity: 0; }
+      62%  { opacity: 0; }
+      70%  { opacity: 1; }
+      100% { opacity: 1; }
+    }
+  </style>
+  <rect x="2" y="3" width="9" height="2" fill="#b565f0" />
+  <rect x="13" y="3" width="9" height="2" fill="#b565f0" />
+  <rect x="11" y="5" width="2" height="18" fill="#b565f0" />
+  <rect x="0" y="5" width="2" height="14" fill="#b565f0" />
+  <rect x="22" y="5" width="2" height="14" fill="#b565f0" />
+  <rect x="0" y="19" width="11" height="2" fill="#b565f0" />
+  <rect x="13" y="19" width="11" height="2" fill="#b565f0" />
+  <rect x="11" y="21" width="2" height="2" fill="#b565f0" />
+  <rect x="13" y="5" width="9" height="14" fill="#ffffff" />
+  <rect x="2" y="5" width="9" height="14" fill="#ffffff" />
+  <g class="right-text">
+    <rect x="15" y="9" width="5" height="2" fill="#6fb3ff" />
+    <rect x="15" y="13" width="5" height="2" fill="#6fb3ff" />
+    <rect x="15" y="17" width="2" height="2" fill="#6fb3ff" />
+  </g>
+  <rect class="flap" y="5" height="14" fill="#d9bdfb" />
+  <g class="left-text">
+    <rect x="4" y="9" width="5" height="2" fill="#6fb3ff" />
+    <rect x="4" y="13" width="5" height="2" fill="#6fb3ff" />
+    <rect x="7" y="17" width="2" height="2" fill="#6fb3ff" />
+  </g>
+</svg>
