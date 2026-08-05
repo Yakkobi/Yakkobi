@@ -11,25 +11,24 @@
 
 <div>
 
-### <img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/spinning-portal.svg" width="25" align="absmiddle" />About Me<img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/spinning-portal.svg" width="25" align="absmiddle" />
+### <sub><img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/spinning-portal.svg" width="25" align="baseline" /></sub>About Me<sub><img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/spinning-portal.svg" width="25" align="baseline" /></sub>
 
 Hi, I'm Yakkobi~ a lifelong tinkerer who got into tech through emulation and rom hacking, and never really stopped exploring since. Currently, my energy is channeled into full-stack development projects, cybersecurity research, network administration, and working knowledge of Linux (I use Arch btw).  
 ~IT by trade, with military experience along the way.
 
 <br>
 
-🌱 &nbsp;I'm currently learning **full-stack web development**  
-👯 &nbsp;I'm looking to collaborate on **web application projects**  
-💬 &nbsp;Ask me about **CompTIA certifications/study tips, general IT/helpdesk questions, emulation, or my experience in the military!**  
-😄 &nbsp;Pronouns: **he/him**  
-⚡ &nbsp;Fun fact: **I've been in some of the most secure rooms in the Pentagon!**
+<sub><img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/spinning-gears.svg" width="20" /></sub> &nbsp;I'm currently learning **full-stack web development**  
+<sub><img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/animated-sillhouettes.svg" width="20" /></sub> &nbsp;I'm looking to collaborate on **web application projects**  
+<sub><img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/animated-speech-bubble.svg" width="20" /></sub> &nbsp;Ask me about **CompTIA certifications/study tips, general IT/helpdesk questions, emulation, or my experience in the military!**  
+&thinsp;<sub><img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/animated-lightning-surge.svg" width="17" /></sub> &nbsp;Fun fact: **I've been in some of the most secure rooms in the Pentagon!**
 
 <br>
 
 ---
 
 
-### 🛠️ Tech Stack
+### <sub><img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/animated-book.svg" width="25" /></sub> Tech Stack
 
 <br>
 
@@ -65,7 +64,7 @@ Hi, I'm Yakkobi~ a lifelong tinkerer who got into tech through emulation and rom
 
 
 
-### 📊 GitHub Stats
+### <sub><img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/animated-bar-graph.svg" width="25" /></sub> GitHub Stats
 
 <br>
 
