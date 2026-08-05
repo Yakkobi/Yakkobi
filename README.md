@@ -11,7 +11,7 @@
 
 <div>
 
-### <sub><img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/spinning-portal.svg" width="25" align="baseline" /></sub>About Me<sub><img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/spinning-portal.svg" width="25" align="baseline" /></sub>
+### <sub><img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/talking-skull.svg" width="34" align="absmiddle" /></sub>About Me
 
 Hi, I'm Yakkobi~ a lifelong tinkerer who got into tech through emulation and rom hacking, and never really stopped exploring since. Currently, my energy is channeled into full-stack development projects, cybersecurity research, network administration, and working knowledge of Linux (I use Arch btw).  
 ~IT by trade, with military experience along the way.
