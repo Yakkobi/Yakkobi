@@ -11,7 +11,7 @@
 
 <div>
 
-### <sub><img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/talking-skull.svg" width="34" align="absmiddle" /></sub>About Me
+### <sub><img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/animated-flame.svg" width="25" /></sub>About Me<sub><img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/animated-flame.svg" width="25" /></sub>
 
 Hi, I'm Yakkobi~ a lifelong tinkerer who got into tech through emulation and rom hacking, and never really stopped exploring since. Currently, my energy is channeled into full-stack development projects, cybersecurity research, network administration, and working knowledge of Linux (I use Arch btw).  
 ~IT by trade, with military experience along the way.
@@ -28,7 +28,7 @@ Hi, I'm Yakkobi~ a lifelong tinkerer who got into tech through emulation and rom
 ---
 
 
-### <sub><img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/animated-book.svg" width="25" /></sub> Tech Stack
+### <sub><img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/animated-book.svg" width="25" /></sub> &thinsp;Tech Stack
 
 <br>
 
@@ -64,7 +64,7 @@ Hi, I'm Yakkobi~ a lifelong tinkerer who got into tech through emulation and rom
 
 
 
-### <sub><img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/animated-bar-graph.svg" width="25" /></sub> GitHub Stats
+### <sub><img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/animated-bar-graph.svg" width="25" /></sub>&#8202; GitHub Stats
 
 <br>
 
