@@ -20,7 +20,7 @@ Hi, I'm Yakkobi~ a lifelong tinkerer who got into tech through emulation and rom
 
 <sub><sub><img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/spinning-gears.svg" width="20" /></sub></sub> &nbsp;I'm currently learning **full-stack web development** and **game design**
 <br>
-<sub><sub><img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/animated-sillhouettes.svg" width="20" /></sub></sub> &nbsp;I'm looking to collaborate on: **web application projects** and **game development**
+<sub><sub><img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/animated-sillhouettes.svg" width="20" /></sub></sub> &nbsp;I'm looking to collaborate on **web application projects** and **game development**
 <br>
 <sub><img src="https://raw.githubusercontent.com/Yakkobi/Yakkobi/main/assets/animated-speech-bubble.svg" width="20" /></sub> &nbsp;Ask me about **CompTIA certifications/study tips, general IT/helpdesk questions, emulation, or my experience in the military!**
 <br>
