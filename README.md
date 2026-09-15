@@ -72,8 +72,8 @@ Hi, I'm Yakkobi~ a lifelong tinkerer who got into tech through emulation and rom
 <br>
 
 <p align="center">
-  <img height="195" src="https://github-stats-extended.vercel.app/api?username=Yakkobi&show_icons=true&theme=shades-of-purple&title_color=e3b341&custom_title=Profile&nbsp;Metrics&icon_color=e3b341&text_color=C25CCC&ring_color=e3b341&rank_icon=percentile&hide_border=true&bg_color=00000000&count_private=true&show=reviews%2Cdiscussions_answered%2C&hide=issues" alt="stats" />
-  <img height="210" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yakkobi&layout=donut&theme=great-gatsby&title_color=e3b341&icon_color=e3b341&text_color=C25CCC&hide_border=true&bg_color=00000000&langs_count=6" alt="top langs" />
+  <img height="195" src="https://github-stats-extended-frontend-yakkobi.vercel.app/api?username=Yakkobi&show_icons=true&theme=shades-of-purple&title_color=e3b341&custom_title=Profile%20Metrics&icon_color=e3b341&text_color=C25CCC&ring_color=e3b341&rank_icon=percentile&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true&show=reviews%2Cdiscussions_answered%2C&hide=issues" alt="stats" />
+  <img height="210" src="https://github-stats-extended-frontend-yakkobi.vercel.app/api/top-langs/?username=Yakkobi&layout=donut&theme=great-gatsby&title_color=e3b341&icon_color=e3b341&text_color=C25CCC&hide_border=true&bg_color=00000000&langs_count=6" alt="top langs" />
 </p>
 
 
