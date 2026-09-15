@@ -78,7 +78,7 @@ Hi, I'm Yakkobi~ a lifelong tinkerer who got into tech through emulation and rom
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yakkobi&bg_color=00000000&color=e3b341&title_color=e3b341&custom_title=Contribution&nbsp;Graph&line=cb00ff&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://activity-graph.vercel.app/graph?username=Yakkobi&bg_color=00000000&color=e3b341&title_color=e3b341&custom_title=Contribution&nbsp;Graph&line=cb00ff&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 <br>
